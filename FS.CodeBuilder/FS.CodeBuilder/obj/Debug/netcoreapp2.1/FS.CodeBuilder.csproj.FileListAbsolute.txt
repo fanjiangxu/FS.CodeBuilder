@@ -1,0 +1,10 @@
+E:\FS\FS.net\FS.CodeBuilder\FS.CodeBuilder\FS.CodeBuilder\bin\Debug\netcoreapp2.1\FS.CodeBuilder.deps.json
+E:\FS\FS.net\FS.CodeBuilder\FS.CodeBuilder\FS.CodeBuilder\bin\Debug\netcoreapp2.1\FS.CodeBuilder.runtimeconfig.json
+E:\FS\FS.net\FS.CodeBuilder\FS.CodeBuilder\FS.CodeBuilder\bin\Debug\netcoreapp2.1\FS.CodeBuilder.runtimeconfig.dev.json
+E:\FS\FS.net\FS.CodeBuilder\FS.CodeBuilder\FS.CodeBuilder\bin\Debug\netcoreapp2.1\FS.CodeBuilder.dll
+E:\FS\FS.net\FS.CodeBuilder\FS.CodeBuilder\FS.CodeBuilder\bin\Debug\netcoreapp2.1\FS.CodeBuilder.pdb
+E:\FS\FS.net\FS.CodeBuilder\FS.CodeBuilder\FS.CodeBuilder\obj\Debug\netcoreapp2.1\FS.CodeBuilder.csproj.CoreCompileInputs.cache
+E:\FS\FS.net\FS.CodeBuilder\FS.CodeBuilder\FS.CodeBuilder\obj\Debug\netcoreapp2.1\FS.CodeBuilder.AssemblyInfoInputs.cache
+E:\FS\FS.net\FS.CodeBuilder\FS.CodeBuilder\FS.CodeBuilder\obj\Debug\netcoreapp2.1\FS.CodeBuilder.AssemblyInfo.cs
+E:\FS\FS.net\FS.CodeBuilder\FS.CodeBuilder\FS.CodeBuilder\obj\Debug\netcoreapp2.1\FS.CodeBuilder.dll
+E:\FS\FS.net\FS.CodeBuilder\FS.CodeBuilder\FS.CodeBuilder\obj\Debug\netcoreapp2.1\FS.CodeBuilder.pdb
